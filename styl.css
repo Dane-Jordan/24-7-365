@@ -1,0 +1,135 @@
+html {
+	background-image: url("bckgrd.png");
+	background-repeat: no-repeat;
+	background-position: 50% 60%;
+	background-size: 40%;
+	background-color: #2F4F4F;
+}
+.fullhead {
+	background-color: #800000;
+}
+.header {
+	
+	display: inline-block;
+
+}
+.buttons {
+	
+	display: inline-block;
+}
+.order {
+	
+	height: 15em;
+
+}
+.orderb {
+	
+	height: 10em;
+}
+.bottom {
+	
+
+}
+h4 {
+
+	margin: 0px;
+	font-size: 625%;
+	display: inline-block;
+}
+#log {
+	text-align: center;
+	font-size: 150%;
+	margin: 2em;
+	border-radius: 5%;
+	background-color: #87CEEB;
+
+}
+#sig {
+	text-align: center;
+	font-size: 150%;
+	margin: 2em;
+	border-radius: 5%;
+	background-color: #87CEEB;
+	padding-right: .1em;
+	padding-left: .1em; 
+
+}
+#oz {
+	display: inline-block;
+	background-color: #483D8B;
+	padding: .5em;
+	width: 8%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 150%;
+	border-radius: 5%;
+	position: relative;
+	top:30%;
+	left:18%;
+}
+#wings {
+	font-size: 150%;
+	text-align: center;
+	width: 6%;
+	padding: .7em;
+	background-color: #483D8B;
+	display: inline-block;
+	border-radius: 100%;
+	font-weight: bold;
+	position: relative;
+	top:30%;
+	left:61%;
+}
+#both {
+	font-size: 160%;
+	text-align: center;
+	width: 8%;
+	background-color: #4B0082;
+	border-radius: 30%;
+	font-weight: bolder;
+	position: relative;
+	top: 50%;
+	left:45%;
+}
+.qs {
+	font-size: 130%;
+	margin: .2em;
+	position: relative;
+	left: 10%;
+}
+.coms {
+	font-size: 130%;
+	margin: .2em;
+	position: relative;
+	left: 28%;
+}
+.contact {
+	font-size: 130%;
+	text-decoration: underline;
+	margin: .2em;
+	position: relative;
+	left:50%;
+}
+.click {
+	display: inline-block;
+	background-color: #87CEEB;
+	border:solid .5em #800000;
+	border-radius: 10%;
+	width: 20%;
+	position: relative;
+	left: 79%;
+}
+.link {
+	font-size: 700%;
+}
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color:black;
+}
+a:hover{
+	color: grey;
+
+}
